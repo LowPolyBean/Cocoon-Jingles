@@ -1,8 +1,11 @@
-# Jingle Repo Example
-
-A template repository for creating Cocoon jingle packs. Use this template
-to build your own collection of game jingles that can be used with
+My Jingle Repo!
+Surprisingly i found that there werent many repos that had pokemon games in them, so i decided to make it myself!
 [Cocoon](https://github.com/inssekt/CocoonFE).
+
+
+
+
+Leaving this here for future reference
 
 ## Quick Start
 
