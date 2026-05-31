@@ -1,13 +1,21 @@
 {
-  "name": "Example Jingle Pack",
+  "name": "Beans' Jingles",
   "entries": [
     {
-      "game": "Example Game 1",
-      "file": "jingles/example-game-1.mp3"
+      "game": "Unbound",
+      "file": "jingles/Unbound"
     },
     {
-      "game": "Example Game 2",
-      "file": "jingles/example-game-2.mp3"
+      "game": "RSE",
+      "file": "jingles/RubySapphireEmerald"
+    },
+    {
+      "game": "HGSS",
+      "file": "jingles/HGSS"
+    },
+    {
+      "game": "FireRed LeafGreen",
+      "file": "jingles/FireRedLeafGreen.mp3"
     }
   ]
 }
