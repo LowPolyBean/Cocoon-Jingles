@@ -5,7 +5,7 @@ Surprisingly i found that there werent many repos that had pokemon games in them
 
 
 
-Leaving this here for future reference
+## Leaving this here for future reference
 
 ## Quick Start
 
